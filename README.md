@@ -128,26 +128,6 @@ class_idx = np.argmax(predictions[0])
 confidence = predictions[0][class_idx]
 ```
 
-## Handling Large Model Files
-
-Model files (.h5) are too large for direct Git commits. Choose one option:
-
-### Option 1: Git LFS
-```bash
-git lfs install
-git lfs track "*.h5"
-git add .gitattributes
-```
-
-### Option 2: Cloud Storage
-Store models on Google Drive, Hugging Face, or AWS S3 and add download link to documentation.
-
-### Option 3: .gitignore
-Add to `.gitignore`:
-```
-*.h5
-```
-Document training instructions in README instead of committing models.
 
 ## Performance Tips
 
