@@ -175,20 +175,25 @@ Document training instructions in README instead of committing models.
 └── best_[CROP]_model.h5    (stored in cloud)
 ```
 
-## Dataset Source
+## 📦 Dataset Source
 
-Based on Team 11A Crop-wise Dataset (Kaggle)
+This project uses a **custom-built crop disease dataset** containing high-quality images of various diseased and healthy crop leaves.  
+If you require access to the dataset, feel free to **contact us** for collaboration or research purposes.
 
-## Citation
+---
 
-If using EfficientNetV2B3:
+## 👥 Authors
 
-Tan, M., & Le, Q. V. (2021). "EfficientNetV2: Smaller models and faster training." *ICML*.
+**LeafGuard Team**  
+Developed by passionate innovators dedicated to advancing AI in agriculture.
 
-## License
+---
 
-[Add appropriate license]
+## 🌾 Closing Note
 
-## Authors
+Thank you for exploring **LeafGuard-CNN** 🌱  
+Our mission is to bridge the gap between **technology and agriculture** by empowering farmers with intelligent disease detection tools.  
+We believe that with AI-driven solutions like LeafGuard, the future of **smart and sustainable farming** is closer than ever.
 
-LeafGuard Team
+> *"Empowering farmers, one leaf at a time."* 🌿
+
