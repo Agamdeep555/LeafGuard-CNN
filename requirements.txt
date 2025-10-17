@@ -1,0 +1,8 @@
+# Core ML Libraries
+tensorflow
+numpy
+opencv-python
+tqdm
+
+# Flask for Deployment
+flask==3.0.3
