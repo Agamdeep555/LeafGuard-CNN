@@ -10,6 +10,9 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 **Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
+<br><br>  <!-- adds extra space -->
+<br><br>  <!-- adds extra space -->
+
 #  Description
 
 <div align="center">
@@ -23,6 +26,9 @@ A deep learning solution for automated crop disease detection across multiple cr
 *Model Training*
 
 </div>
+
+<br><br>  <!-- adds extra space -->
+<br><br>  <!-- adds extra space -->
 
 # Input/Output
 
