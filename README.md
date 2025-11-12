@@ -1,6 +1,6 @@
-# 🌿 LeafGuard-CNN
+# **🌿 LeafGuard-CNN**
 
-### CNN-Based Crop Disease Detection using EfficientNetV2B3
+### CNN-Based Crop Disease Detection
 
 A deep learning solution for automated crop disease detection across multiple crop types using EfficientNetV2B3 transfer learning.
 
