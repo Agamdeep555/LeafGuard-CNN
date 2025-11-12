@@ -30,7 +30,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 # 3. Input/Output
 
-<img width="350" height="550" alt="image" src="https://github.com/user-attachments/assets/d8b5c15d-e128-4a5a-a4b2-805618ef2c6d" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/d8b5c15d-e128-4a5a-a4b2-805618ef2c6d" />
 
 
 
