@@ -16,11 +16,11 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 | ![Screenshot 1](https://github.com/user-attachments/assets/7cda64ff-bca8-4315-a3e2-a6202a9c5ceb) | ![Screenshot 2](https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22) |
 |:--:|:--:|
-| *Main interface view* | *Feature demonstration* |
+| *Overview* | *Image Preprocessing* |
 
 ![Screenshot 3](https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9)
 
-*Additional workflow or results view*
+*Model Training*
 
 </div>
 
