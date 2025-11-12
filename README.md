@@ -10,13 +10,13 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 **Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
-## Requirements
+## **2. Description**
 
-- Python 3.8+
-- TensorFlow >= 2.10.0
-- OpenCV >= 4.5.0
-- NumPy >= 1.21.0
-- tqdm >= 4.62.0
+<img width="612" height="190" alt="Screenshot 2025-11-12 164702" src="https://github.com/user-attachments/assets/7cda64ff-bca8-4315-a3e2-a6202a9c5ceb" />
+<img width="539" height="164" alt="image" src="https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22" />
+<img width="688" height="183" alt="image" src="https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9" />
+
+
 
 ## Installation
 
