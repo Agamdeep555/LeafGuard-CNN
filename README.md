@@ -5,8 +5,8 @@
 A deep learning solution for automated crop disease detection across multiple crop types using EfficientNetV2B3 transfer learning.
 
 ## **1. Methodology**
-<img src= <img width="1332" height="120" alt="Screenshot 2025-11-12 161823" src="https://github.com/user-attachments/assets/94621c6a-3434-4abb-a06a-8f592669b510" />
- >
+<img width="1559" height="166" alt="image" src="https://github.com/user-attachments/assets/a4420d9e-e6ce-4b28-bd93-0c723142a4d5" />
+
 
 **Supported Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
