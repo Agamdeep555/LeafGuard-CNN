@@ -8,7 +8,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 <img width="1559" height="166" alt="image" src="https://github.com/user-attachments/assets/a4420d9e-e6ce-4b28-bd93-0c723142a4d5" />
 
 
-**Supported Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
+**Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
 ## Requirements
 
