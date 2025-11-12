@@ -34,7 +34,8 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 
 
-## Dataset Structure
+
+## 4. Dataset Structure
 
 ```
 Dataset/
@@ -53,7 +54,12 @@ Dataset/
 └── ... (other crops)
 ```
 
-## 📦 Dataset Source
+
+# 5. Screenshot of the Accuracy
+<img width="795" height="128" alt="Screenshot 2025-11-12 174727" src="https://github.com/user-attachments/assets/0bd771a0-452a-47b8-be8d-d89e54e51e92" />
+
+
+## 6. Dataset Source
 
 This project uses a **custom-built crop disease dataset** containing high-quality images of various diseased and healthy crop leaves.  
 If you require access to the dataset, feel free to **contact us** for collaboration or research purposes.
