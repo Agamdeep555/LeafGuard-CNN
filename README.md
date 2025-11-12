@@ -34,15 +34,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 
 
-## Installation
-
-```bash
-pip install tensorflow opencv-python numpy tqdm
-```
-
 ## Dataset Structure
-
-Organize your dataset as follows:
 
 ```
 Dataset_annam/
@@ -61,24 +53,7 @@ Dataset_annam/
 └── ... (other crops)
 ```
 
-## Usage
-
-### 1. Configure Paths
-
-Update the script with your dataset location:
-
-```python
-BASE = "/path/to/Dataset_annam"
-RAW_TRAIN = os.path.join(BASE, "[CROP_NAME]/Train")
-RAW_VAL = os.path.join(BASE, "[CROP_NAME]/Valid")
-```
-
-Replace `[CROP_NAME]` with one of: `Corn`, `Cotton`, `Grape`, `Potato`, `Rice`, `Sugarcane`, `Tomato`, `Wheat`
-
-### 2. Run Training
-
-```bash
-python train_model.py
+el.py
 ```
 
 The script will:
