@@ -37,7 +37,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 ## Dataset Structure
 
 ```
-Dataset_annam/
+Dataset/
 ├── Corn/
 │   ├── Train/
 │   │   ├── disease_class_1/
