@@ -12,7 +12,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 <br><br>  <!-- adds extra space -->
 
-#  Description
+# 2. Description
 
 <div align="center">
 
@@ -28,7 +28,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 <br><br>  <!-- adds extra space -->
 
-# Input/Output
+# 3. Input/Output
 
 
 
