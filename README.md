@@ -4,9 +4,9 @@
 
 A deep learning solution for automated crop disease detection across multiple crop types using EfficientNetV2B3 transfer learning.
 
-## Overview
-
-LeafGuard-CNN is a multi-class image classification model designed for detecting and classifying crop diseases. It utilizes transfer learning with EfficientNetV2B3 backbone, combining image preprocessing with two-phase training strategy for optimal performance.
+## **1. Methodology**
+<img src= <img width="1332" height="120" alt="Screenshot 2025-11-12 161823" src="https://github.com/user-attachments/assets/94621c6a-3434-4abb-a06a-8f592669b510" />
+ >
 
 **Supported Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
