@@ -10,11 +10,20 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 **Crops:** Corn, Cotton, Grape, Potato, Rice, Sugarcane, Tomato, Wheat
 
-## **2. Description**
+## ✨ Description
 
-<img width="612" height="190" alt="Screenshot 2025-11-12 164702" src="https://github.com/user-attachments/assets/7cda64ff-bca8-4315-a3e2-a6202a9c5ceb" />
-<img width="539" height="164" alt="image" src="https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22" />
-<img width="688" height="183" alt="image" src="https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9" />
+<div align="center">
+
+| ![Screenshot 1](https://github.com/user-attachments/assets/7cda64ff-bca8-4315-a3e2-a6202a9c5ceb) | ![Screenshot 2](https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22) |
+|:--:|:--:|
+| *Main interface view* | *Feature demonstration* |
+
+![Screenshot 3](https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9)
+
+*Additional workflow or results view*
+
+</div>
+
 
 
 
