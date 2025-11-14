@@ -14,12 +14,7 @@ A deep learning solution for automated crop disease detection across multiple cr
 
 # 2. Description
 
-Overview
-<p align="center"> <img src="https://github.com/user-attachments/assets/aa336d76-b876-4daa-a46a-a32d55c2ddd0" width="85%" /> </p>
-Image Preprocessing
-<p align="center"> <img src="https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22" width="85%" /> </p>
-Model Training
-<p align="center"> <img src="https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9" width="85%" /> </p>
+<div align="center"> <table> <tr> <td align="center" width="50%"> <img src="https://github.com/user-attachments/assets/aa336d76-b876-4daa-a46a-a32d55c2ddd0" width="100%" /> <br><em>Overview</em> </td> <td align="center" width="50%"> <img src="https://github.com/user-attachments/assets/b24389de-2a24-4de9-aa3f-6a2372bedf22" width="100%" /> <br><em>Image Preprocessing</em> </td> </tr> </table> <br> <img src="https://github.com/user-attachments/assets/dc2081de-7f1f-42c3-a878-54656b155dd9" width="70%" /> <br> <em>Model Training</em> </div>
 
 
 # 3. Input/Output
